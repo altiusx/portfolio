@@ -144,14 +144,14 @@ var typewriter = new Typewriter(type, {
 
 typewriter
   .typeString("Systems Engineer")
-  .pauseFor(2000)
+  .pauseFor(1000)
   .deleteAll()
   .typeString("Frontend Developer")
-  .pauseFor(2000)
+  .pauseFor(1000)
   .deleteAll()
   .typeString("Tech Enthusiast")
-  .pauseFor(2000)
+  .pauseFor(1000)
   .deleteAll()
   .typeString("Volunteer")
-  .pauseFor(2000)
+  .pauseFor(1000)
   .start();
