@@ -318,17 +318,15 @@ nav__logo:hover {
   justify-self: center;
   width: 240px;
   height: 320px;
-  /* background: linear-gradient(
-    180deg,
-    hsla(var(--first-hue), var(--sat), var(--lig), 1),
-    hsla(var(--first-hue), var(--sat), var(--lig), 0.2)
-  ); */
-  border-radius: 1.5rem;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
+
+  .home__img {
+    border-radius: 1.5rem;
+  }
 
 .home__buttons {
   display: flex;
