@@ -143,7 +143,7 @@ var typewriter = new Typewriter(type, {
 });
 
 typewriter
-  .typeString("Systems Engineer")
+  .typeString("Software Engineer")
   .pauseFor(1000)
   .deleteAll()
   .typeString("Frontend Developer")
